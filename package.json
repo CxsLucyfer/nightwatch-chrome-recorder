@@ -58,7 +58,7 @@
   "dependencies": {
     "@puppeteer/replay": "^2.10.2",
     "chalk": "^5.2.0",
-    "globby": "^13.1.3",
+    "globby": "^13.2.2",
     "inquirer": "^9.1.5",
     "meow": "^11.0.0",
     "prettier": "^2.8.7"
